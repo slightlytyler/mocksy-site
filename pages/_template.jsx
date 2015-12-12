@@ -1,14 +1,10 @@
 import React from 'react';
-import { RouteHandler, Link, State } from 'react-router';
-
 import Radium from 'radium';
 import { link } from 'gatsby-helpers';
 
 import DownloadIcon from '../components/DownloadIcon';
 
 const Index = React.createClass({
-  mixins: [State],
-
   render: function() {
     return (
       <div
