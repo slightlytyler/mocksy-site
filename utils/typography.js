@@ -3,11 +3,11 @@ import Typography from 'typography';
 const options = {
   baseFontSize: '18px',
   baseLineHeight: '27px',
-  headerFontFamily: '"Avenir Next", "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif',
-  bodyFontFamily: 'georgia, serif',
+  headerFontFamily: 'Roboto, sans-serif',
+  bodyFontFamily: 'Roboto, sans-serif',
   bodyWeight: 300,
-  headerWeight: 700,
-  boldWeight: 700,
+  headerWeight: 300,
+  boldWeight: 400,
   modularScales: [
     {
       "scale": "diminished fourth"

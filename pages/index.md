@@ -1,4 +1,4 @@
 ---
-title: Hi people
+title: Mocsky
 ---
-Welcome to your new Gatsby site.
+Easily and quickly create mockups from your screenshots.
