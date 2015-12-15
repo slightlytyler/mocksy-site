@@ -48,7 +48,7 @@ const Index = React.createClass({
             ]}>
               <a
                 key="download-button"
-                href={link('/assets/Mocksy.zip')}
+                href="https://github.com/slightlytyler/mocksy-site/raw/master/pages/assets/Mocksy.zip"
                 download="Mocksy"
                 style={styles.download.button.base}
               >
