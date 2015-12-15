@@ -74,7 +74,7 @@ const Index = React.createClass({
               Built by&nbsp;
               <a
                 key="this-guy"
-                href="https://slightlytyler.com"
+                href="http://slightlytyler.github.io"
                 target="_blank"
                 style={styles.footer.link}
               >
@@ -140,10 +140,6 @@ const styles = {
     },
 
     screenshot: {
-      base: {
-        boxShadow: '0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23)'
-      },
-
       image: {
         margin: 0,
       }
